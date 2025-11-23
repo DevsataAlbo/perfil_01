@@ -1,8 +1,8 @@
-# Investigación: Portafolio de Productos Digitales para Profesionales TI
+## Portafolio de Productos Digitales para Profesionales TI
 
 **Enlaces:**
-- 🔗 Demo: [En vivo](https://adweb-online.web.app)
-- 💻 GitHub: (https://github.com/DevsataAlbo/perfil_01.git)
+- 🔗 Demo: [En vivo](https://devsataalbo.github.io/perfil_01/)
+- 💻 GitHub: [Repositorio](https://github.com/DevsataAlbo/perfil_01.git)
 - 📖 Documentación: Ver README en repositorio
 
 
